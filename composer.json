@@ -1,0 +1,22 @@
+{
+    "name": "rfernandez/pingdomApi",
+    "description": "A PHP pingdom client",
+    "require": {
+        "guzzle/guzzle": "v2.7.2",
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+        "mockery/mockery": "0.7.2"
+    },
+    "autoload": {
+        "psr-0": {
+            "Rfernandez": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raul Fernandez",
+            "email": "arsakiyo@gmail.com"
+        }
+    ]
+}
