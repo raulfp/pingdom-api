@@ -1,5 +1,5 @@
 {
-    "name": "rfernandez/pingdomApi",
+    "name": "rfernandez/pingdom-api",
     "description": "A PHP pingdom client",
     "require": {
         "guzzle/guzzle": "v2.7.2",
